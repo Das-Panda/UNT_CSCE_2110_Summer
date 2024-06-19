@@ -1,5 +1,0 @@
-g++ -c Node.cpp
-g++ -c main.cpp
-g++ -c Queue.cpp
-g++ -o krs0379Exam1 LinkedList.o main.o Queue.o
-./krs0379Exam1
