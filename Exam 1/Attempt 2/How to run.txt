@@ -1,0 +1,4 @@
+g++ -c LinkedList.cpp
+g++ -c main.cpp
+g++ -o krs0379Exam1 LinkedList.o main.o
+./krs0379Exam1
